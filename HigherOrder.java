@@ -1,4 +1,8 @@
 Class HigherOrder
 {
 
+	HigherOrder()
+	{
+	}
+
 }
