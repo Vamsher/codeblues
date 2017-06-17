@@ -1,4 +1,8 @@
 Class Immutability
 {
 
+	Immutability()
+	{
+	}
+
 }
